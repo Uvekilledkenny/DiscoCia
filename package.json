@@ -1,0 +1,18 @@
+{
+    "name": "discocia",
+    "version": "0.3.0",
+    "description": "",
+    "main": "app.js",
+    "bin": {
+        "discocia": "./app.js"
+    },
+    "author": "uvekilledkenny",
+    "license": "ISC",
+    "dependencies": {
+        "async": "^1.5.2",
+        "inquirer": "^0.12.0",
+        "progress": "^1.1.8",
+        "re2": "^1.3.2",
+        "tmp": "0.0.28"
+    }
+}
